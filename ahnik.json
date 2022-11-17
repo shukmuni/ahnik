@@ -1,0 +1,239 @@
+{
+    "ahniks": [
+      {
+        "ahnikId": "ccdf6964-6658-11ed-9022-0242ac120002",
+        "parentAhnikId": null,
+        "displayOrder": "1",
+        "displayWidth": "100",
+        "meta": [
+          {
+            "title": "Aarti",
+            "subtitle": "",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "pageList": [
+          "2b6ab4d8-665a-11ed-9022-0242ac120002"
+        ]
+      },
+      {
+        "ahnikId": "451aaae2-6659-11ed-9022-0242ac120002",
+        "parentAhnikId": "ccdf6964-6658-11ed-9022-0242ac120002",
+        "displayOrder": "1",
+        "displayWidth": "100",
+        "meta": [
+          {
+            "title": "Mangala",
+            "subtitle": "Performed when Bhagawan wakes up",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "pageList": [
+          "2b6ab4d8-665a-11ed-9022-0242ac120002",
+          "2b6ab4d8-665a-11ed-9022-0242ac120002"
+        ]
+      },
+      {
+        "ahnikId": "7b495a6e-6659-11ed-9022-0242ac120002",
+        "parentAhnikId": "ccdf6964-6658-11ed-9022-0242ac120002",
+        "displayOrder": "2",
+        "displayWidth": "100",
+        "meta": [
+          {
+            "title": "Shangar",
+            "subtitle": "Performed after Bhagwan is dressed",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "pageList": [
+          "2b6ab4d8-665a-11ed-9022-0242ac120002",
+          "2b6ab4d8-665a-11ed-9022-0242ac120002"
+        ]
+      },
+      {
+        "ahnikId": "dc985fcc-6659-11ed-9022-0242ac120002",
+        "parentAhnikId": "ccdf6964-6658-11ed-9022-0242ac120002",
+        "displayOrder": "3",
+        "displayWidth": "100",
+        "meta": [
+          {
+            "title": "Rajbhog",
+            "subtitle": "Performed before lunch",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "pageList": [
+          "2b6ab4d8-665a-11ed-9022-0242ac120002",
+          "2b6ab4d8-665a-11ed-9022-0242ac120002"
+        ]
+      },
+      {
+        "ahnikId": "e8b29c64-6659-11ed-9022-0242ac120002",
+        "parentAhnikId": "ccdf6964-6658-11ed-9022-0242ac120002",
+        "displayOrder": "4",
+        "displayWidth": "100",
+        "meta": [
+          {
+            "title": "Sandhya",
+            "subtitle": "Performed after sunset",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "pageList": [
+          "2b6ab4d8-665a-11ed-9022-0242ac120002",
+          "2b6ab4d8-665a-11ed-9022-0242ac120002"
+        ]
+      },
+      {
+        "ahnikId": "15248fbe-665a-11ed-9022-0242ac120002",
+        "parentAhnikId": "ccdf6964-6658-11ed-9022-0242ac120002",
+        "displayOrder": "5",
+        "displayWidth": "100",
+        "meta": [
+          {
+            "title": "Shayan",
+            "subtitle": "Performed before bedtime",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "pageList": [
+          "2b6ab4d8-665a-11ed-9022-0242ac120002",
+          "2b6ab4d8-665a-11ed-9022-0242ac120002"
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "pageId": "2b6ab4d8-665a-11ed-9022-0242ac120002",
+        "displayOrder": "1",
+        "pageType": "INFO",
+        "meta": [
+          {
+            "title": "Arti Info",
+            "subtitle": "",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "components": [
+          {
+            "componentId": "961557de-665f-11ed-9022-0242ac120002",
+            "mediaType": "TEXT",
+            "contents": [
+              {
+                "contentId": "92fb1ce0-6660-11ed-9022-0242ac120002",
+                "mediaType": "TEXT",
+                "title": "Arti History & Mahima",
+                "subtitle": "",
+                "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+                "Url": "",
+                "thumbnailUrl": ""
+              }
+            ],
+            "displayOrder": 1
+          }
+        ]
+      },
+      {
+        "pageId": "2b6ab4d8-665a-11ed-9022-0242ac120002",
+        "displayOrder": "2",
+        "pageType": null,
+        "meta": [
+          {
+            "title": "Audio",
+            "subtitle": "",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "components": [
+          {
+            "componentId": "10258e6c-6661-11ed-9022-0242ac120002",
+            "mediaType": "AUDIO",
+            "contents": [
+              {
+                "contentId": "92fb1ce0-6660-11ed-9022-0242ac120002",
+                "mediaType": "TEXT",
+                "title": "Swaminarayan Aarti",
+                "subtitle": "",
+                "description": "",
+                "Url": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/Shri_Swaminarayan_Arti_Ashtak_Evening_001.mp3",
+                "thumbnailUrl": ""
+              }
+            ],
+            "displayOrder": 1
+          },
+          {
+            "componentId": "2a099ecc-6661-11ed-9022-0242ac120002",
+            "mediaType": "AUDIO",
+            "contents": [
+              {
+                "contentId": "55345c4a-6661-11ed-9022-0242ac120002",
+                "mediaType": "TEXT",
+                "title": "Swaminarayan Aarti",
+                "subtitle": "",
+                "description": "",
+                "Url": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/Shri_Swaminarayan_Arti_Ashtak_Evening_001.mp3",
+                "thumbnailUrl": ""
+              }
+            ],
+            "displayOrder": 2
+          },
+          {
+            "componentId": "31d51b22-6661-11ed-9022-0242ac120002",
+            "mediaType": "AUDIO",
+            "contents": [
+              {
+                "contentId": "5b2aff32-6661-11ed-9022-0242ac120002",
+                "mediaType": "TEXT",
+                "title": "Swaminarayan Aarti",
+                "subtitle": "",
+                "description": "",
+                "Url": "https://download.baps.org/Data/Sites/1/Media/DownloadableFile/Rituals/Shri_Swaminarayan_Arti_Ashtak_Evening_001.mp3",
+                "thumbnailUrl": ""
+              }
+            ],
+            "displayOrder": 3
+          }
+        ]
+      },
+      {
+        "pageId": "2b6ab4d8-665a-11ed-9022-0242ac120002",
+        "displayOrder": "3",
+        "pageType": null,
+        "meta": [
+          {
+            "title": "Video",
+            "subtitle": "",
+            "description": "",
+            "lang": "EN"
+          }
+        ],
+        "components": [
+          {
+            "componentId": "15cb4992-6661-11ed-9022-0242ac120002",
+            "mediaType": "TEXT",
+            "contents": [
+              {
+                "contentId": "5865ca42-6662-11ed-9022-0242ac120002",
+                "mediaType": "VIDEO",
+                "title": "Swaminarayan Aarti",
+                "subtitle": "",
+                "description": "",
+                "Url": "https://www.youtube.com/watch?v=A9UoDsU7Oi0",
+                "thumbnailUrl": "",
+                "videoSource": "YOUTUBE"
+              }
+            ],
+            "displayOrder": 1
+          }
+        ]
+      }
+    ]
+  }
